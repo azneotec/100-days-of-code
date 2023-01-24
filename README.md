@@ -13,7 +13,7 @@
 - Debugging Practice
 - Input Function
 - Variables
-- Day 1 Project: Band Name Generator
+- [Day 1 Project: Band Name Generator](./day-1/pjt_brand_name_generator.py)
 
 ### DAY 2
 #### THEORY
@@ -25,4 +25,4 @@
 - Data Types
 - BMI Calculator
 - Life in Weeks
-- Day 2 Project: Tip Calculator
+- [Day 2 Project: Tip Calculator](./day-2/pjt_tip_calculator.py)
