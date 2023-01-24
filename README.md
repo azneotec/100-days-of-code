@@ -37,3 +37,4 @@
 - Leap Year
 - Pizza Order Practice
 - Love Calculator
+- [Day 3 Project: Treasure Island](./day-3/pjt_treasure_island.py)
