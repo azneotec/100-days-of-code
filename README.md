@@ -8,7 +8,7 @@
 - Variables in Python
 - String Manipulation
 - Input and Print Functions
-#### Exercise
+#### EXERCISE
 - Printing
 - Debugging Practice
 - Input Function
@@ -20,6 +20,6 @@
 - Mathematical Operations in Python
 - Data Types
 - Converting Types
-#### Exercise
+#### EXERCISE
 - Data Types
 - BMI Calculator
