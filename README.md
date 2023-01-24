@@ -26,3 +26,9 @@
 - BMI Calculator
 - Life in Weeks
 - [Day 2 Project: Tip Calculator](./day-2/pjt_tip_calculator.py)
+
+### DAY 3
+#### THEORY
+- Conditionals IF/ELIF/ELSE
+#### EXERCISE
+- Odd or Even
