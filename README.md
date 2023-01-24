@@ -32,3 +32,5 @@
 - Conditionals IF/ELIF/ELSE
 #### EXERCISE
 - Odd or Even
+- BMI 2.0
+- Leap Year
