@@ -23,3 +23,4 @@
 #### EXERCISE
 - Data Types
 - BMI Calculator
+- Life in Weeks
