@@ -20,6 +20,7 @@
 - Mathematical Operations in Python
 - Data Types
 - Converting Types
+- Number Manipulation and F Strings
 #### EXERCISE
 - Data Types
 - BMI Calculator
