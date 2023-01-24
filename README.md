@@ -24,3 +24,4 @@
 - Data Types
 - BMI Calculator
 - Life in Weeks
+- Day 2 Project: Tip Calculator
