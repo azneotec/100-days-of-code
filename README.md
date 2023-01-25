@@ -43,6 +43,7 @@
 #### THEORY
 - Randomisation
 - Lists Data Structure
+- Index errors and nested lists
 #### EXERCISE
 - Heads or Tails
 - Banker Roulette 
