@@ -38,3 +38,12 @@
 - Pizza Order Practice
 - Love Calculator
 - [Day 3 Project: Treasure Island](./day-3/pjt_treasure_island.py)
+
+### DAY 4
+#### THEORY
+- Randomisation
+#### EXERCISE
+- Heads or Tails
+- Banker Roulette 
+- Treasure Map
+- [Day 4 Project: Rock Paper Scissors](./day-4/pjt_rock_paper_scissors.py)
