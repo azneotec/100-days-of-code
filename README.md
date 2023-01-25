@@ -42,6 +42,7 @@
 ### DAY 4
 #### THEORY
 - Randomisation
+- Lists Data Structure
 #### EXERCISE
 - Heads or Tails
 - Banker Roulette 
