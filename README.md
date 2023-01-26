@@ -59,3 +59,4 @@
 - High Score
 - Adding Even Numbers
 - FizzBuzz
+- [Day 5 Project: Create a Password Generator ](./day-5/pjt_password_generator.py)
