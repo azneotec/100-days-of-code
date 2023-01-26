@@ -52,7 +52,7 @@
 
 ### DAY 5
 #### THEORY
-- Loops
+- For loops and ranges
 - Code blocks and Indentation
 #### EXERCISE
 - Average Height
