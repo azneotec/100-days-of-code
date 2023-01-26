@@ -53,6 +53,7 @@
 ### DAY 5
 #### THEORY
 - Loops
+- Code blocks and Indentation
 #### EXERCISE
 - Average Height
 - High Score
