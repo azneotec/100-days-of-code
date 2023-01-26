@@ -49,3 +49,12 @@
 - Banker Roulette 
 - Treasure Map
 - [Day 4 Project: Rock Paper Scissors](./day-4/pjt_rock_paper_scissors.py)
+
+### DAY 5
+#### THEORY
+- Loops
+#### EXERCISE
+- Average Height
+- High Score
+- Adding Even Numbers
+- FizzBuzz
