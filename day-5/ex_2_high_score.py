@@ -6,9 +6,9 @@ print(student_scores)
 # 🚨 Don't change the code above 👆
 
 # Write your code below this row 👇
-current_highest_score = -1
+highest_score = -1
 for score in student_scores:
-    if score > current_highest_score:
-        current_highest_score = score
+    if score > highest_score:
+        highest_score = score
 
-print(f"The highest score in the class is: {current_highest_score}")
+print(f"The highest score in the class is: {highest_score}")
