@@ -52,11 +52,17 @@
 
 ### DAY 5
 #### THEORY
-- For loops and ranges
-- Code blocks and Indentation
+- For loops
+- For ranges
 #### EXERCISE
 - Average Height
 - High Score
 - Adding Even Numbers
 - FizzBuzz
-- [Day 5 Project: Create a Password Generator ](./day-5/pjt_password_generator.py)
+- [Day 5 Project: Create a Password Generator](./day-5/pjt_password_generator.py)
+
+### DAY 6
+#### THEORY
+- Code blocks and Indentation
+- Functions
+- While loops
