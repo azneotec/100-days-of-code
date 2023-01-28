@@ -66,3 +66,7 @@
 - Code blocks and Indentation
 - Functions
 - While loops
+
+### DAY 7
+#### EXERCISE
+- [Day 7 Project: Hangman](./day-7/pjt_hangman.py)
