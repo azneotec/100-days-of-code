@@ -78,3 +78,4 @@
 #### EXERCISE
 - Paint Area Calculator
 - Prime numbers
+- [Day 8 Project: Caesar Cipher](./day-8/pjt_caesar_cipher.py)
