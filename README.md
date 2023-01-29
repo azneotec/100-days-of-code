@@ -70,3 +70,11 @@
 ### DAY 7
 #### EXERCISE
 - [Day 7 Project: Hangman](./day-7/pjt_hangman.py)
+
+### DAY 8
+#### THEORY
+- Functions with inputs
+- Arguments & Parameters
+#### EXERCISE
+- Paint Area Calculator
+- Prime numbers
