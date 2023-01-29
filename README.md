@@ -79,3 +79,12 @@
 - Paint Area Calculator
 - Prime numbers
 - [Day 8 Project: Caesar Cipher](./day-8/pjt_caesar_cipher.py)
+
+### DAY 9
+#### THEORY
+- Python Dictionaries
+- Nested Collections
+#### EXERCISE
+- Grading program
+- Dictionary in list
+- [Day 9 Project: Secret Auction](./day-9/pjt_secret_auction.py)
