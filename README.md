@@ -92,6 +92,7 @@
 ### DAY 10
 #### THEORY
 - Functions with outputs
+- Docstrings
 #### EXERCISE
 - Days in month
 - [Day 10 Project: Calculator](./day-10/pjt_calculator.py)
