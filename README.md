@@ -88,3 +88,10 @@
 - Grading program
 - Dictionary in list
 - [Day 9 Project: Secret Auction](./day-9/pjt_secret_auction.py)
+
+### DAY 10
+#### THEORY
+- Functions with outputs
+#### EXERCISE
+- Days in month
+- [Day 10 Project: Calculator](./day-10/pjt_calculator.py)
