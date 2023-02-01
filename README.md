@@ -99,4 +99,10 @@
 
 ### DAY 11
 #### EXERCISE
-- [Day 7 Project: Blackjack](./day-11/pjt_blackjack.py)
+- [Day 11 Project: Blackjack](./day-11/pjt_blackjack.py)
+
+### DAY 12
+#### THEORY
+- Scope and Local/Global Variables
+#### EXERCISE
+- [Day 12 Project: Blackjack](./day-12/pjt_number_guessing_game.py)
