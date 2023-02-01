@@ -96,3 +96,7 @@
 #### EXERCISE
 - Days in month
 - [Day 10 Project: Calculator](./day-10/pjt_calculator.py)
+
+### DAY 11
+#### EXERCISE
+- [Day 7 Project: Blackjack](./day-11/pjt_blackjack.py)
