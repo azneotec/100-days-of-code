@@ -106,3 +106,11 @@
 - Scope and Local/Global Variables
 #### EXERCISE
 - [Day 12 Project: Blackjack](./day-12/pjt_number_guessing_game.py)
+
+### DAY 13
+#### THEORY
+- Debugging Techniques
+#### EXERCISE
+- Debugging Odd or Even
+- Debugging Leap Year
+- Debugging FizzBuzz
