@@ -114,3 +114,7 @@
 - Debugging Odd or Even
 - Debugging Leap Year
 - Debugging FizzBuzz
+
+### DAY 14
+#### EXERCISE
+- [Day 14 Project: Higher Lower Game](./day-14/pjt_higher_lower_game.py)
