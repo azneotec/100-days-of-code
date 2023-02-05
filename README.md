@@ -121,4 +121,13 @@
 
 ### DAY 15
 #### EXERCISE
-- [Day 15 Project: Coffee Machine](./day-14/pjt_higher_lower_game.py)
+- [Day 15 Project: Coffee Machine](./day-15/coffee-machine/main.py)
+
+### DAY 16
+#### THEORY
+- Python Object Oriented Programming
+- Creating Classes in Python
+- Getting / Setting Attributes
+- Using External Python Modules/Import
+#### EXERCISE
+- [Day 16 Project: Coffee Machine in OOP](./day-16/coffee-machine/main.py)
