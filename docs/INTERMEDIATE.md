@@ -10,7 +10,6 @@
 ### DAY 16
 #### THEORY
 - Python Object Oriented Programming
-- Using External Python Modules/Import
 #### EXERCISE
 - [Day 16 Project: Coffee Machine in OOP](../day-16/coffee-machine/main.py)
 
@@ -26,5 +25,11 @@
 ### DAY 18
 #### THEORY
 - Python Turtle
+- Using External Python Modules/Import
+- Module Aliasing
 #### EXERCISE
+- Draw a line
+- Draw a dashed line
+- Draw different shapes with different colors
+- Draw a Random Walk
 - [Day 18 Project: Hirst Painting](../day-18/hirst-painting/main.py)
