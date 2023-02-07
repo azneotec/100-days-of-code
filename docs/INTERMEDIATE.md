@@ -33,4 +33,5 @@
 - Draw a dashed line
 - Draw different shapes with different colors
 - Draw a Random Walk
+- Draw a Spirograph
 - [Day 18 Project: Hirst Painting](../day-18/hirst-painting/main.py)
