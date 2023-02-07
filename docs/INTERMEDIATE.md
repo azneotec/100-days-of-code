@@ -35,3 +35,12 @@
 - Draw a Random Walk
 - Draw a Spirograph
 - [Day 18 Project: Hirst Painting](../day-18/hirst-painting/main.py)
+
+### DAY 19
+#### THEORY
+- Higher Order Function
+- Event Listeners
+- Instances and State
+- Turtle coordinate system
+#### EXERCISE
+- Make an Etch-A-Sketch App
