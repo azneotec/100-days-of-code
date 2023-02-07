@@ -27,6 +27,7 @@
 - Python Turtle
 - Using External Python Modules/Import
 - Module Aliasing
+- Python Tuples
 #### EXERCISE
 - Draw a line
 - Draw a dashed line
