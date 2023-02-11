@@ -44,3 +44,9 @@
 - Turtle coordinate system
 #### EXERCISE
 - Make an Etch-A-Sketch App
+- Create a turtle race game
+
+### DAY 20-21
+#### EXERCISE
+- [Day 20 Build the snake game Part-1](../day-20-21/snake-game/main.py)
+- [Day 21 Build the snake game Part-2](../day-20-21/snake-game/main.py)
