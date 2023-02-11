@@ -13,6 +13,6 @@ class Food(Turtle):
         self.refresh()
 
     def refresh(self):
-        rand_x = random.randint(-280, 280)
-        rand_y = random.randint(-280, 280)
+        rand_x = random.randint(-250, 250)
+        rand_y = random.randint(-250, 250)
         self.goto(rand_x, rand_y)
