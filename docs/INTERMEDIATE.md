@@ -53,3 +53,7 @@
 #### EXERCISE
 - [Day 20 Build the snake game Part-1](../day-20-21/snake-game/main.py)
 - [Day 21 Build the snake game Part-2](../day-20-21/snake-game/main.py)
+
+### DAY 22
+#### EXERCISE
+- [Day 22 Build a Ping Pong game Part-2](../day-22/pong-game/main.py)
