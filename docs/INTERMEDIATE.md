@@ -56,4 +56,8 @@
 
 ### DAY 22
 #### EXERCISE
-- [Day 22 Build a Ping Pong game Part-2](../day-22/pong-game/main.py)
+- [Day 22 Build a Ping Pong game](../day-22/pong-game/main.py)
+
+### DAY 23
+#### EXERCISE
+- [Day 23 The Turtle Crossing Capstone project](../day-23/turtle-crossing/main.py)
