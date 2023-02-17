@@ -61,3 +61,10 @@
 ### DAY 23
 #### EXERCISE
 - [Day 23 The Turtle Crossing Capstone project](../day-23/turtle-crossing/main.py)
+
+### DAY 24
+#### THEORY
+- File I/O Reading and Writing to Local Files
+- File Directories
+#### EXERCISE
+- [Day 24 The Mail Merge project](../day-24/mail-merge/main.py)
