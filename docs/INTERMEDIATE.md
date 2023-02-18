@@ -68,3 +68,10 @@
 - File Directories
 #### EXERCISE
 - [Day 24 The Mail Merge project](../day-24/mail-merge/main.py)
+
+### DAY 25
+#### THEORY
+- Reading and Writing to CSV
+- Introduction to the Pandas Framework
+#### EXERCISE
+- [Day 25 U.S. States Game](../day-25/us-states/main.py)
