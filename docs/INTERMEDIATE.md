@@ -84,4 +84,5 @@
 - Squaring numbers
 - Filtering even numbers
 - Data Overlap
+- Dictionary Comprehension 1
 - [Day 26 Project: NATO Alphabet](../day-26/nato-alphabet/main.py)
