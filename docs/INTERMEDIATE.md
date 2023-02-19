@@ -75,3 +75,10 @@
 - Introduction to the Pandas Framework
 #### EXERCISE
 - [Day 25 U.S. States Game](../day-25/us-states/main.py)
+
+### DAY 26
+#### THEORY
+- List Comprehensions
+- Dictionary Comprehensions
+#### EXERCISE
+- [Day 26 Project: NATO Alphabet](../day-26/nato-alphabet/main.py)
