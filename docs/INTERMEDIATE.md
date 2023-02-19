@@ -81,4 +81,6 @@
 - List Comprehensions
 - Dictionary Comprehensions
 #### EXERCISE
+- Squaring numbers
+- Filtering even numbers
 - [Day 26 Project: NATO Alphabet](../day-26/nato-alphabet/main.py)
