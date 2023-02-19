@@ -85,4 +85,5 @@
 - Filtering even numbers
 - Data Overlap
 - Dictionary Comprehension 1
+- Dictionary Comprehension 2
 - [Day 26 Project: NATO Alphabet](../day-26/nato-alphabet/main.py)
