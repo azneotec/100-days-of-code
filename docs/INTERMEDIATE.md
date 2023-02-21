@@ -91,5 +91,5 @@
 ### DAY 27
 #### THEORY
 - Creating Desktop GUI Apps with Tkinter
-- Function Arguments
+- Advanced Arguments
 #### EXERCISE
