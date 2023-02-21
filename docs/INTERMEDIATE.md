@@ -87,3 +87,9 @@
 - Dictionary Comprehension 1
 - Dictionary Comprehension 2
 - [Day 26 Project: NATO Alphabet](../day-26/nato-alphabet/main.py)
+
+### DAY 27
+#### THEORY
+- Creating Desktop GUI Apps with Tkinter
+- Function Arguments
+#### EXERCISE
