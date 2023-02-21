@@ -94,3 +94,9 @@
 - Advanced Arguments
 #### EXERCISE
 - [Day 27 Project: Miles to Kilometers converter](../day-27/miles-km-conv/main.py)
+
+### DAY 28
+#### THEORY
+- Dynamic Typing
+#### EXERCISE
+- [Day 28 Project: Pomodoro Application](../day-28/pomodoro/main.py)
