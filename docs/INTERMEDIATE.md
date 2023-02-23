@@ -100,3 +100,7 @@
 - Dynamic Typing
 #### EXERCISE
 - [Day 28 Project: Pomodoro Application](../day-28/pomodoro/main.py)
+
+### DAY 29
+#### EXERCISE
+- [Day 29 Project: Password Manager](../day-29/pass-mgr/main.py)
