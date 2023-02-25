@@ -104,3 +104,11 @@
 ### DAY 29
 #### EXERCISE
 - [Day 29 Project: Password Manager](../day-29/pass-mgr/main.py)
+
+### DAY 30
+#### THEORY
+- Error Handling and Exceptions
+- Try / Except/ Raise
+- Working with JSONs
+#### EXERCISE
+- [Day 30 Project: Enhance Password Manager](../day-30/enhance-pass-mgr/main.py)
