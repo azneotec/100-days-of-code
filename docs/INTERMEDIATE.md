@@ -111,4 +111,5 @@
 - Try / Except/ Raise
 - Working with JSONs
 #### EXERCISE
+- Index error handling
 - [Day 30 Project: Enhance Password Manager](../day-30/enhance-pass-mgr/main.py)
