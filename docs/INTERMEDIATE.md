@@ -114,3 +114,7 @@
 - Index error handling
 - Key error handling
 - [Day 30 Project: Enhance Password Manager](../day-30/enhance-pass-mgr/main.py)
+
+### DAY 31
+#### EXERCISE
+- [Day 31 Capstone: Flash Card Application](../day-31/flashcard-app/main.py)
