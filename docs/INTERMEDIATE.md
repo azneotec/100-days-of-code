@@ -125,4 +125,5 @@
 - Working with date and time
 - Hosting Python Code Online with PythonAnywhere
 #### EXERCISE
+- Email Motivational Quotes on Monday
 - [Day 32 Project : Automated Birthday Wisher](../day-32/auto-birthday-wisher/main.py)
