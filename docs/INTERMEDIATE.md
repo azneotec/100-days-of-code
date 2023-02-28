@@ -118,3 +118,11 @@
 ### DAY 31
 #### EXERCISE
 - [Day 31 Capstone: Flash Card Application](../day-31/flashcard-app/main.py)
+
+### DAY 32
+#### THEORY
+- Sending Email with Python and SMTP
+- Working with date and time
+- Hosting Python Code Online with PythonAnywhere
+#### EXERCISE
+- [Day 32 Project : Automated Birthday Wisher](../day-32/auto-birthday-wisher/main.py)
