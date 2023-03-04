@@ -127,3 +127,12 @@
 #### EXERCISE
 - Email Motivational Quotes on Monday
 - [Day 32 Project : Automated Birthday Wisher](../day-32/auto-birthday-wisher/main.py)
+
+### DAY 33
+#### THEORY
+- APIs
+- Making HTTP Requests with the Requests module
+- Sending Parameters with the Request
+#### EXERCISE
+- Build a Kanye quotes rest API
+- [Day 33 Project : ISS Overhead Notifier](../day-33/iss-overhead-notifier/main.py)
