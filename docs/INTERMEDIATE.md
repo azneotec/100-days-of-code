@@ -136,3 +136,7 @@
 #### EXERCISE
 - Build a Kanye quotes rest API
 - [Day 33 Project : ISS Overhead Notifier](../day-33/iss-overhead-notifier/main.py)
+
+### DAY 34
+#### EXERCISE
+- [Day 34 Project : Quizlet App](../day-34/quizlet-app/main.py)
