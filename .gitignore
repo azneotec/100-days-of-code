@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea
+
+day-32/auto-birthday-wisher/email.txt
