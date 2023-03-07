@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 .idea
 
-day-32/auto-birthday-wisher/email.txt
+data-pii.txt
