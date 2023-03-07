@@ -140,3 +140,10 @@
 ### DAY 34
 #### EXERCISE
 - [Day 34 Project : Quizlet App](../day-34/quizlet-app/main.py)
+
+### DAY 35
+#### THEORY
+- APIs with Authentication
+- Sending SMS with Python
+#### EXERCISE
+- [Day 35 Project : Rain Alert App](../day-35/rain-alert-app/main.py)
