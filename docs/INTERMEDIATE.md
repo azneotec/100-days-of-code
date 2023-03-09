@@ -147,3 +147,7 @@
 - Sending SMS with Python
 #### EXERCISE
 - [Day 35 Project : Rain Alert App](../day-35/rain-alert-app/main.py)
+
+### DAY 36
+#### EXERCISE
+- [Day 36 Project : Stock Price and News App](../day-36/stock-app/main.py)
