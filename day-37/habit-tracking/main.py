@@ -1,4 +1,5 @@
 import requests
+from datetime import datetime
 
 USERNAME = "fake_user"
 TOKEN = "fake_token"
@@ -34,9 +35,14 @@ graph_config = {
 # print(response)
 
 pixel_creation_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{GRAPH_ID}"
+
+today = datetime(year=2023, month=3, day=9)
+# today = datetime.now()
+# print(today.strftime("%Y%m%d"))
+
 pixel_data = {
-    "date": "20230310",
-    "quantity": "5.22"
+    "date": today.strftime("%Y%m%d"),
+    "quantity": "3.95"
 }
 
 response = requests.post(url=pixel_creation_endpoint, json=pixel_data, headers=headers)
