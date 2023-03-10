@@ -142,8 +142,6 @@
 - [Day 34 Project : Quizlet App](../day-34/quizlet-app/main.py)
 
 ### DAY 35
-#### THEORY
-- APIs with Authentication
 - Sending SMS with Python
 #### EXERCISE
 - [Day 35 Project : Rain Alert App](../day-35/rain-alert-app/main.py)
@@ -151,3 +149,9 @@
 ### DAY 36
 #### EXERCISE
 - [Day 36 Project : Stock Price and News App](../day-36/stock-app/main.py)
+
+### DAY 37
+#### THEORY
+- APIs with Authentication
+#### EXERCISE
+- [Day 37 Project : Habit Tracking](../day-37/habit-tracking/main.py)
