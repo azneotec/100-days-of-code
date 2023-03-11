@@ -1,4 +1,5 @@
 import requests
+from requests.auth import HTTPBasicAuth
 from datetime import datetime
 
 GENDER = "male"
@@ -8,6 +9,14 @@ AGE = 33
 
 APP_ID = "FAKE_APP_ID"
 API_KEY = "FAKE_API_KEY"
+
+basic = HTTPBasicAuth('fake_user', 'fake_pass')
+withBasicAuthHeader = {
+    "Authorization": "Basic FAKE_TOKEN"
+}
+withBearerAuthHeader = {
+    "Authorization": "Bearer FAKE_TOKEN"
+}
 
 EXERCISE_API_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
 
@@ -54,6 +63,8 @@ for exercise in exercises:
             "calories": exercise["nf_calories"],
         }
     }
-    workout_response = requests.post(url=WORKOUT_SHEETY_API_ENDPOINT, json=workout_data)
+    # workout_response = requests.post(url=WORKOUT_SHEETY_API_ENDPOINT, json=workout_data, auth=basic)
+    # workout_response = requests.post(url=WORKOUT_SHEETY_API_ENDPOINT, json=workout_data, headers=withBasicAuthHeader)
+    workout_response = requests.post(url=WORKOUT_SHEETY_API_ENDPOINT, json=workout_data, headers=withBearerAuthHeader)
     workout_response.raise_for_status()
-    print(workout_response.json())
+    # print(workout_response.json())
