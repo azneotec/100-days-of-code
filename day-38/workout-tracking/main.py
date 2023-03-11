@@ -1,3 +1,5 @@
+import os
+
 import requests
 from requests.auth import HTTPBasicAuth
 from datetime import datetime
@@ -7,15 +9,19 @@ WEIGHT_KG = 92.25
 HEIGHT_CM = 172.0
 AGE = 33
 
-APP_ID = "FAKE_APP_ID"
-API_KEY = "FAKE_API_KEY"
+APP_ID = os.environ["APP_ID"]
+API_KEY = os.environ["API_KEY"]
+USERNAME = os.environ["USERNAME"]
+PASSWORD = os.environ["PASSWORD"]
+BASIC_AUTH_TOKEN = os.environ["BASIC_AUTH_TOKEN"]
+BEARER_AUTH_TOKEN = os.environ["BEARER_AUTH_TOKEN"]
 
-basic = HTTPBasicAuth('fake_user', 'fake_pass')
+basic = HTTPBasicAuth(USERNAME, PASSWORD)
 withBasicAuthHeader = {
-    "Authorization": "Basic FAKE_TOKEN"
+    "Authorization": f"Basic {BASIC_AUTH_TOKEN}"
 }
 withBearerAuthHeader = {
-    "Authorization": "Bearer FAKE_TOKEN"
+    "Authorization": f"Bearer {BEARER_AUTH_TOKEN}"
 }
 
 EXERCISE_API_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
