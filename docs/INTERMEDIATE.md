@@ -155,3 +155,7 @@
 - APIs with Authentication
 #### EXERCISE
 - [Day 37 Project : Habit Tracking](../day-37/habit-tracking/main.py)
+
+### DAY 38
+#### EXERCISE
+- [Day 38 Project : Workout Tracking](../day-38/workout-tracking/main.py)
