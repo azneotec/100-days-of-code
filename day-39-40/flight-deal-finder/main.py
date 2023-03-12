@@ -12,36 +12,16 @@ KIWI_API_KEY = os.environ["KIWI_API_KEY"]
 data_manager = DataManager(SHEETY_API_ENDPOINT)
 flight_search = FlightSearch(KIWI_LOCATION_SEARCH_API_ENDPOINT, KIWI_API_KEY)
 
-flight_deals_prices_response = requests.get(url=SHEETY_API_ENDPOINT)
-flight_deals_prices_response.raise_for_status()
-sheet_data = flight_deals_prices_response.json()["prices"]
-# sheet_data = [
-#     {
-#         "iataCode": "",
-#         "city": "Paris",
-#         "id": "2",
-#         "lowest_Price": "54",
-#     },
-#     {
-#         "iataCode": "",
-#         "city": "Berlin",
-#         "id": "3",
-#         "lowest_Price": "42",
-#     }
-# ]
+sheet_data = data_manager.get_destination_data()
 pprint(sheet_data)
 
+update_destination_data = False
 for sheet in sheet_data:
     if sheet["iataCode"] == "":
         result = flight_search.search(sheet["city"])
         sheet["iataCode"] = result
+        update_destination_data = True
 
-        flight_deals_price_data = {
-            "price": {
-                "iataCode": result,
-            }
-        }
-        flight_deals_prices_updated_response = data_manager.update_sheet(sheet["id"], flight_deals_price_data)
-
-print("\n")
-pprint(sheet_data)
+if update_destination_data:
+    pprint(sheet_data)
+    data_manager.set_destination_data(sheet_data)
