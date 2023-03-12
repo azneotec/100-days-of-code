@@ -43,7 +43,10 @@ for destination in sheet_data:
         currency=ORIGIN_CITY_CURRENCY
     )
 
-    if flight is not None and flight.price < destination["lowestPrice"]:
+    if flight is None:
+        continue
+
+    if flight.price < destination["lowestPrice"]:
         notification_manager.send_sms(
             message=f"Low price alert! Only £{flight.price} to fly "
                     f"from {flight.origin_city}-{flight.origin_airport} "
