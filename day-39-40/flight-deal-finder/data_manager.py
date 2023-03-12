@@ -12,23 +12,25 @@ class DataManager:
         response.raise_for_status()
         data = response.json()
         self.destination_data = data["prices"]
-
-        # sheet_data = [
-        #     {
-        #         "iataCode": "PAR",
-        #         "city": "Paris",
-        #         "id": "2",
-        #         "lowest_Price": "54",
-        #     },
-        #     {
-        #         "iataCode": "BER",
-        #         "city": "Berlin",
-        #         "id": "3",
-        #         "lowest_Price": "42",
-        #     }
-        # ]
-        # self.destination_data = sheet_data
+        # self.use_test_data()
         return self.destination_data
+
+    def use_test_data(self):
+        sheet_data = [
+            {
+                "iataCode": "",
+                "city": "Paris",
+                "id": "2",
+                "lowest_Price": "54",
+            },
+            {
+                "iataCode": "",
+                "city": "Berlin",
+                "id": "3",
+                "lowest_Price": "42",
+            }
+        ]
+        self.destination_data = sheet_data
 
     def set_destination_data(self, sheet_data):
         self.destination_data = sheet_data
