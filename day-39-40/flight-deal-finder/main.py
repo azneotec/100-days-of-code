@@ -2,7 +2,7 @@
 # program requirements.
 import os
 from datetime import datetime, timedelta
-from pprint import pprint
+from notification_manager import NotificationManager
 
 from data_manager import DataManager
 from flight_search import FlightSearch
@@ -17,6 +17,7 @@ ORIGIN_CITY_CURRENCY = "GBP"
 
 data_manager = DataManager(SHEETY_API_ENDPOINT)
 flight_search = FlightSearch(KIWI_API_ENDPOINT, KIWI_API_KEY)
+notification_manager = NotificationManager()
 update_destination_data = False
 
 sheet_data = data_manager.get_destination_data()
@@ -28,8 +29,6 @@ for sheet in sheet_data:
 
 if update_destination_data:
     data_manager.set_destination_data(sheet_data)
-
-pprint(sheet_data)
 
 today = datetime.now()
 tomorrow = today + timedelta(days=1)
@@ -43,3 +42,11 @@ for destination in sheet_data:
         to_time=six_month_from_today,
         currency=ORIGIN_CITY_CURRENCY
     )
+
+    if flight is not None and flight.price < destination["lowestPrice"]:
+        notification_manager.send_sms(
+            message=f"Low price alert! Only £{flight.price} to fly "
+                    f"from {flight.origin_city}-{flight.origin_airport} "
+                    f"to {flight.destination_city}-{flight.destination_airport}, "
+                    f"from {flight.out_date} to {flight.return_date}."
+        )
