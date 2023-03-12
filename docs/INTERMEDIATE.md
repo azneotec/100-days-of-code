@@ -159,3 +159,7 @@
 ### DAY 38
 #### EXERCISE
 - [Day 38 Project : Workout Tracking](../day-38/workout-tracking/main.py)
+
+### DAY 39-40
+#### EXERCISE
+- [Day 39-40 Capstone : Flight Deal Finder](../day-39-40/flight-deal-finder/main.py)
