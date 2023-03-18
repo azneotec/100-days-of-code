@@ -163,3 +163,11 @@
 ### DAY 39-40
 #### EXERCISE
 - [Day 39-40 Capstone : Flight Deal Finder](../day-39-40/flight-deal-finder/main.py)
+
+### DAY 41
+#### THEORY
+- Introduction to HTML
+- The Anatomy of an HTML tag
+- HTML lists, Image Elements, Links and Anchor Tags
+#### EXERCISE
+- [Day 41 Project : HTML Personal Site](../day-41/html-personal-site/index.html)
