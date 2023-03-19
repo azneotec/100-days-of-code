@@ -171,3 +171,8 @@
 - HTML lists, Image Elements, Links and Anchor Tags
 #### EXERCISE
 - [Day 41 Project : HTML Personal Site](../day-41/html-personal-site/index.html)
+
+### DAY 42
+#### THEORY
+- HTML Tables
+- HTML Forms
