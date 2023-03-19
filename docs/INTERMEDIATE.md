@@ -176,3 +176,10 @@
 #### THEORY
 - HTML Tables
 - HTML Forms
+
+### DAY 43
+#### THEORY
+- Introduction to CSS
+- Inline, Internal, External CSS
+- Anatomy of CSS Syntax
+- CSS Selectors, classes vs ids
